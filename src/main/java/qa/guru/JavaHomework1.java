@@ -45,6 +45,7 @@ public class JavaHomework1 {
         System.out.println("int / double = " + (varInt / varDouble));
         System.out.println("int % double = " + (varInt % varDouble));
 
+        //test
     }
 
 }
